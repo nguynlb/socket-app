@@ -1,2 +1,0 @@
-** Socket Console App
-
